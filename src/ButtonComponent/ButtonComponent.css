@@ -1,0 +1,11 @@
+.ButtonComponent {
+    width: 100px;
+    background: lightblue;
+    border: 1px solid #222;
+    padding: 10px 20px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
