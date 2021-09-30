@@ -1,7 +1,4 @@
 import React from "react";
-import "./DisplayComponent.css";
-
-
 
 function DisplayComponent() {
     return (
